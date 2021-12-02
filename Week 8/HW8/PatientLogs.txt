@@ -1,0 +1,5 @@
+Me,12,33,5,Medium
+Terrio,3,22,1,Low
+Terrio,2,22,2,Low
+Terrio,2,33,2,High
+Coopster,12,33,4,Low
